@@ -36,7 +36,7 @@ nav li{
     border-top: 0;
     border-right:0;
     border-left:0;
-    border-bottom: 5px, black;
+    border-bottom:black;
     border-style: solid;
 }
 #logo-block {
@@ -123,7 +123,7 @@ input[type=text], select, textarea, input[type=date], input[type=number] {
   .columnblock{
     text-align: center;
     width: 95%;
-    border:5px, solid, #48cca8;
+    border: solid;
     border-collapse: collapse;
     border-style:inset;
     border-left: 0px;
